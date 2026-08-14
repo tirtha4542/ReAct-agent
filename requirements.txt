@@ -9,5 +9,6 @@ langchain-community
 langchainhub
 langsmith
 langchain-classic
+streamlit
 
  
