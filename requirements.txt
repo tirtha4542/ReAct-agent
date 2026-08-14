@@ -1,0 +1,13 @@
+deepagents
+langgraph
+langchain
+langchain-mistralai
+ipykernel
+dotenv
+requests
+langchain-community
+langchainhub
+langsmith
+langchain-classic
+
+ 
